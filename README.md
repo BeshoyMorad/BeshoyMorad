@@ -34,27 +34,22 @@
 
 <br>
 
+<h2>📫 How to reach me:</h2>
+ 
+<a href="https://www.facebook.com/iiBesh00/">
+<img align="left" alt="beshoy's Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" 
+     draggable="false" />
+</a>
 
-<div align="center">
-  
- <a href="https://www.facebook.com/iiBesh00/">
-  <img align="left" alt="beshoy's Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" 
+<a href="https://www.linkedin.com/in/beshoymorad/">
+  <img align="left" alt="beshoy's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png"
        draggable="false" />
- </a>
+</a>
 
-  <a href="https://www.linkedin.com/in/beshoymorad/"><img align="left" alt="beshoy's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" />
-  </a>
-
-  <a href="mailto:beshoymorad2002@gmail.com">
-    <img align="left" alt="beshoy's email" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" 
-          draggable="false" />
-  </a>
-
-</div>
-
-
-<br>
-
+<a href="mailto:beshoymorad2002@gmail.com">
+  <img align="left" alt="beshoy's email" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" 
+        draggable="false" />
+</a>
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyMorad&count_private=true&theme=jolly)
