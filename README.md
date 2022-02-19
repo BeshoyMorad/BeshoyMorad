@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyMorad)](https://github.com/anuraghazra/github-readme-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyMorad&count_private=true&theme=jolly)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeshoyMorad&show_icons=true&theme=jolly)
