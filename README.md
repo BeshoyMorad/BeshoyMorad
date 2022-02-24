@@ -1,22 +1,16 @@
-### Hello 👋, I'm Beshoy
+# Hello 👋, I'm Beshoy
 
-----
 <p align="center">
   <img src="/main.gif" alt="Coder GIF" width="500" height="350">
 </p>
 
-
-<!-- your profile view counter here -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BeshoyMorad&label=Profile%20views&color=0e75b6&style=flat" alt="BeshoyMorad" />
 </div>
 
-
-
 <br>
 
 # ✨ About Me
-
 <ul>
  <li><strong>🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a></strong></li>
  <li><strong>Courses I studied in university: 
@@ -72,9 +66,10 @@
   <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
   <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" title="Bootstrap" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/bootstrap.png"></code>
+  <code><img height="40" title="Assembly" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/masm.png"></code>
 
 </div>
-<br><br>
+<br>
 
 
 # 📈 Some Stats
