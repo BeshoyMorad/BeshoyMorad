@@ -16,13 +16,19 @@
  <li><strong>Courses I studied in university: 
    <ul>
       <li>OOP</li>
-      <li>Data Structure</li>
+      <li>Data structure & Algorithms</li>
+      <li>Advanced Algorithms</li>
+      <li>Advanced Programming Techniques</li>
+      <li>Electronics</li>
+      <li>Advanced Electronics</li>
       <li>Logic Design I</li>
       <li>Logic Design II</li>
-      <li>Electronics I</li>
-      <li>Electrical Circuits I</li>
-      <li>Microprocessor I</li>
-      <li>Programming Techniques</li>
+      <li>Microprocessor</li>
+      <li>Advanced Microprocessor</li>
+      <li>Architecture</li>
+      <li>Database Design</li>
+      <li>Operating Systems</li>
+      <li>Probability and Statistics</li>
    </ul>
    </strong></li>
 </ul>
