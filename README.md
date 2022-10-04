@@ -19,16 +19,21 @@
       <li>Data structure & Algorithms</li>
       <li>Advanced Algorithms</li>
       <li>Advanced Programming Techniques</li>
+      <li>Software Engineering</li>
+      <li>Image Processing</li>
       <li>Electronics</li>
       <li>Advanced Electronics</li>
       <li>Logic Design I</li>
       <li>Logic Design II</li>
       <li>Microprocessor</li>
       <li>Advanced Microprocessor</li>
-      <li>Architecture</li>
+      <li>Computer Architecture</li>
+      <li>VLSI</li>
       <li>Database Design</li>
       <li>Operating Systems</li>
       <li>Probability and Statistics</li>
+      <li>Discrete Mathematics</li>
+      <li>Number Theory</li>
    </ul>
    </strong></li>
 </ul>
