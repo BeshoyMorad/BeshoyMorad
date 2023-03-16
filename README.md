@@ -70,8 +70,11 @@ I am passionate about backend development. I have completed several engineering 
 
 <br>
 
-<!-- # 📈 Some Stats
+# 📈 Some Stats
 <div align="center">
 
+  [![Beshoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeshoyMorad&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeshoyMorad&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div> -->
+</div>
