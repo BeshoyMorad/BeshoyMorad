@@ -11,7 +11,7 @@
 <br>
 
 # ✨ About Me
-<strong>🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a></strong>
+<strong>🎓 Computer Engineering Fresh Graduate From <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a></strong>
 <br />
 <strong>🏢 Fullstack Developer <a href="https://apessolutions.com/">@Apes Solutions</a></strong>
 
